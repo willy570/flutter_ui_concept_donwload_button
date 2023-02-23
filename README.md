@@ -31,7 +31,7 @@ flutter run
 
 ## ScreenShot
 
-<img src="assets/screenshoot/one.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="assets/screenshoot/two.png" height="500em" />
+<img src="assets/screenshoots/one.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="assets/screenshoots/two.png" height="500em" />
 
 ## Links
 
